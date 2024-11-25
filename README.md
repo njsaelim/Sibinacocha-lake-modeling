@@ -21,3 +21,4 @@ The response of Andean high-alpine lakes (>4,000 m above sea level) to atmospher
 - The model used in this research can be found at https://github.com/carriemorrill/lake-model.
 - Specific parameters used in the lake model are under the Part-1-calibration folder (lake.inc).
 - 100 combinations of ETA and CDRN used during the calibration can be found in the Part-1-calibration folder (lake-params.txt).
+- The 1-D lake model codes are excerpted and modified from https://github.com/carriemorrill/lake-model (Morrill et al., 2019).
